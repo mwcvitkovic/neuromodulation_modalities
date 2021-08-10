@@ -1,0 +1,190 @@
+# Big List of Neuromodulation Modalities
+Every way to change your mind.
+
+Please make an [issue](https://github.com/mwcvitkovic/modalities/issues) if something's missing!
+
+### Table of Contents
+  - [Cognitive](#cognitive) (requiring conscious engagement)
+  - [Peripheral](#peripheral) (entering the brain via nerves from outside the skull)
+  - [Biologic](#biologic) (biological products or biosimilars)
+  - [Chemical](#chemical) (small molecules)
+  - [Electromagnetic](#electromagnetic)
+  - [Subatomic](#subatomic)
+  - [Mechanical](#mechanical)
+  - [Combination](#combination)
+
+## Cognitive
+- meditation
+  - concentrative
+    - focusing on a specific sensation or thought, like the breath
+    - metta
+    - gratitude practices
+  - open monitoring
+- psychotherapy
+  - cognitive behavioral therapy
+- neurofeedback
+- hypnosis
+- brain training
+  - brain training games
+  - disulfiram
+
+## Peripheral
+
+- activities
+    - walking
+    - exercise
+    - eating
+    - breathing techniques
+    - sauna
+- sensory stimuation
+    - binaural beats
+    - auditory entrainment, e.g. [Elemind](https://www.youtube.com/watch?v=zItt6lg2gUA&t=160s)
+    - audiovisual entrainment, e.g. [Cognito](https://www.cell.com/neuron/fulltext/S0896-6273(19)30346-0) (currently in Breakthrough Designation Phase 3 for Alzheimer's)
+    - [vibrotactile stimulation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5624565/)
+- sensory deprivation
+- peripheral nerve stimulation
+    - vagus nerve stimulation (FDA-approved for depression, epilepsy)
+    - trigeminal nerve stimulation
+    - auricular nerve stimulation
+    - percutaneous nerve field stimulation
+
+## Biologic
+
+- monoclonal antibodies
+    - [CGRP antagonists for migraine](https://www.uspharmacist.com/article/an-overview-of-new-biologics-for-migraine-prophylaxis)
+- endogenous antibodies
+    - anti-ganglioside antibodies
+    - anti-glutamate receptor antibodies
+    - voltage-gated potassium channels antibodies
+- gene therapy
+    - [ex-vivo modified autologous fibroblasts to produce nerve growth factor](https://pubmed.ncbi.nlm.nih.gov/15852017/) (kindof a cell therapy as well)
+    - [in-vivo AAV therapy to increase BDNF](https://ucsdnews.ucsd.edu/pressrelease/first-in-human-clinical-trial-to-assess-gene-therapy-for-alzheimers-disease)
+- RNAi? No known uses yet.
+- [interleukins](https://www.frontiersin.org/articles/10.3389/fnbeh.2017.00202/full) involved in memory in mice
+- cell therapy for [depression](https://pubmed.ncbi.nlm.nih.gov/30108315/) and potentially [other things](https://onlinelibrary.wiley.com/doi/full/10.1111/cns.13247)
+
+## Chemical
+There are too many chemicals to list, so instead here are the key mechanisms and effects by which we categorize chemicals, followed by some examples.
+#### Mechanisms of action of psychotropic substances
+This is believed to be a comprehensive list. Most chemicals act by multiple mechanisms.
+  - receptor modulation
+      - agonism (activates a receptor on a cell)
+      - antagonism (binds to but doesn't activate a receptor, a "blocker")
+      - inverse agonism (binds a receptor but produces an opposite effect)
+      - allosteric modulator (binds somewhere other than the active site and increases/decreases activity)
+  - enzyme modulator
+      - inducer
+      - inhibitor
+  - ion channel modulator
+      - opener
+      - blocker
+  - transporter modulator
+      - neurotransmitter releaser
+      - release inhibitor
+      - reuptake enhancer
+      - reuptake inhibitor
+
+#### Neurological and psychological effects of psychotropic substances
+This is definitely not a comprehensive list, just commonly used terminology.
+  - depressants
+      - anxiolytics/sedatives (reduce anxiety)
+      - hypnotics (make you sleep)
+  - hallucinogens (alter perception)
+      - psychedelics
+      - dissociatives
+      - anesthetics
+      - deliriants
+      - empathogens/entactogens (emotional openness, empathy, sympathy)
+  - stimulants (may cause euphoria, but do not affect perception)
+  - mood stabilizers
+  - antidepressants
+  - antipsychotics
+
+#### Examples
+  - fluoxetine (prozac): antidepressant; selective serotonin reuptake inhibitor (SSRI)
+  - haloperidol: antipsychotic; dopamine receptor antagonist
+  - clozapine: antipsychotic; 5-HT2A antagonist
+  - methylxanthines
+    - caffeine: stimulant; adenosine receptor antagonist (among other things)
+    - paraxanthine: stimulant; adenosine receptor antagonist (among other things)
+  - cocaine: stimulant; serotonin, norepinephrine, and dopamine reuptake inhibitor 
+  - nicotine: stimulant and anxiolytic; nicotinic acetylcholine receptor agonist/antagonist
+  - phenethylamines
+    - substituted amphetamines
+      - amphetamine (adderall): stimulant; TAAR1 agonist (among other things)
+      - MDMA: stimulant and empathogen; serotonin, norepinephrine, and dopamine reuptake inhibitor
+    - mescaline: psychedelic; 5-HT2A agonist
+  - tryptamines
+    - psilocybin: psychedelic; 5-HT2A agonist
+    - N,N-Dimethyltryptamine (DMT): psychedelic, nonselective 5HT and dopamine (ant)agonist
+    - melatonin: hypnotic; melatonin receptor agonist
+  - arylcyclohexylamines
+    - ketamine: dissociative anesthetic; NMDA receptor antagonist
+    - phencyclidine (PCP): dissociative anesthetic; NMDA receptor antagonist
+  - elements
+    - Lithium: mood stabilizer, multifarious enzyme modulator
+    - Xenon: dissociative anaesthetic, unknown mechanism
+  - nitrous oxide: dissociative anesthetic; ion channel blocker (among other things)
+  - morphine: anesthetic; opioid receptor agonist
+  - benzodiazepines
+    - diezepam (valium): anxiolytic and hypnotic; positive allosteric GABA-A receptor modulator
+    - alprazolam (xanax): anxiolytic; positive allosteric GABA-A receptor modulator
+  - valproate: mood stabilizer, anticonvulsant; voltage-gated sodium channel blocker, histone deacetylase (HDAC) inhibitor (nice notes on HDAC inhibitors [here](https://www.reddit.com/r/Nootropics/comments/596gbi/i_wrote_an_article_on_hdac_inhibitors_geared/))
+
+## Electromagnetic
+- electroconvulsive therapy (ECT) (undeserved bad reputation, safe and highly effective for [depression](https://pubmed.ncbi.nlm.nih.gov/20088620/) when done under general anesthesia)
+- microelectrode stimulation
+    - deep brain stimulation (DBS)
+    - interfaces (not typically thought of as "neuromodulatory", but doubtlessly can have some effect)
+        - cochlear implants
+        - retinal implants
+        - intracortical arrays (braingate, neuralink, etc.)
+- transcranial electrical stimulation (tES) (running currents through the brain)
+    - transcranial direct current stimulation (tDCS) (less effective than popularly portrayed, but useful for specific indications)
+    - transcranial random noise stimulation (tRNS)
+    - transcranial alternating current stimulation (tACS)
+    - [temporal interference](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5520675/)
+- induction with magnetic fields
+    - transcranial magnetic stimulation (TMS)
+        - FDA-approved for depression, migraines, OCD, and smoking cessation
+    - [low field magnetic stimulation](https://www.sciencedirect.com/science/article/abs/pii/S0165032718328283)
+        - Company blew their [clinical trial](https://clinicaltrials.gov/ct2/show/study/NCT00578383), but that was probably due to rushing the trial and not inefficacy
+- photonic
+  - photobiomodulation/low-level light therapy
+    - [Big review of light penetrance in the brain](https://sci-hub.scihubtw.tw/10.1089/photob.2019.4676)
+  - x-ray
+  - gamma knife
+  - gamma-decay radiotherapy
+
+## Subatomic
+- electronic
+  - electron beam therapy
+  - beta-decay radiotherapy
+- hadronic
+  - proton therapy
+  - fast neutron therapy
+  - heavy-ion radiotherapy
+
+## Mechanical
+- surgery (various -otomys)
+- ultrasound
+  - high-intensity focused ultrasound (HIFU) (for ablation)
+  - blood-brain barrier opening (for drug delivery or general perfusion)
+  - transcranial focused ultrasound stimulation (tFUS) (direct neural activity modulation by low-intensity ultrasound)
+
+## Combination
+- environmental
+  - nutrition
+  - social life
+  - prenatal environment
+  - gut-brain axis/microbiome
+- optogenetics
+- chemogenetics
+- sonogenetics
+- sonothermogenetics
+- sonomagnetics
+- ultrasound blood-brain barrier opening for drug delivery
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/us/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/us/">Creative Commons Attribution 3.0 United States License</a>.
