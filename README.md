@@ -72,18 +72,18 @@ This is believed to be a comprehensive list. Most chemicals act by multiple mech
       - agonism (activates a receptor on a cell)
       - antagonism (binds to but doesn't activate a receptor, a "blocker")
       - inverse agonism (binds a receptor but produces an opposite effect)
-      - allosteric modulator (binds somewhere other than the active site and increases/decreases activity)
-  - enzyme modulator
-      - inducer
-      - inhibitor
-  - ion channel modulator
-      - opener
-      - blocker
-  - transporter modulator
-      - neurotransmitter releaser
-      - release inhibitor
-      - reuptake enhancer
-      - reuptake inhibitor
+      - allosteric modulation (binds somewhere other than the active site and increases/decreases activity)
+  - enzyme modulation
+      - induction
+      - inhibition
+  - ion channel modulation
+      - opening
+      - blocking
+  - transporter modulation
+      - neurotransmitter release enhancement
+      - neurotransmitter release inhibition
+      - reuptake enhancement
+      - reuptake inhibition
 
 #### Neurological and psychological effects of psychotropic substances
 This is definitely not a comprehensive list, just commonly used terminology.
