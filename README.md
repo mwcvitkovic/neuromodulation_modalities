@@ -170,7 +170,7 @@ This is definitely not a comprehensive list, just commonly used terminology.
 - surgery (various -otomys)
 - ultrasound
   - high-intensity focused ultrasound (HIFU) (for ablation)
-  - blood-brain barrier opening (for drug delivery or general perfusion)
+  - blood-brain barrier opening
   - transcranial focused ultrasound stimulation (tFUS) (direct neural activity modulation by low-intensity ultrasound)
 
 ## Combination
