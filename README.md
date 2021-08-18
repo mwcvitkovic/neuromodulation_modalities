@@ -176,6 +176,7 @@ This is definitely not a comprehensive list, just commonly used terminology.
 ## Combination
 - environmental
   - nutrition
+  - genetic makeup
   - social life
   - prenatal environment
   - gut-brain axis/microbiome
