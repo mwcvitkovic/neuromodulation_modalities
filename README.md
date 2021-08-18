@@ -28,6 +28,7 @@ Please make an [issue](https://github.com/mwcvitkovic/modalities/issues) if some
   - [Akili Interactive targeting ADHD](https://www.akiliinteractive.com/)
   - [action video games to reduce depression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5816361/)
   - disulfiram
+- philosophy, comedy, or ideas of any kind
 
 ## Peripheral
 
@@ -38,6 +39,7 @@ Please make an [issue](https://github.com/mwcvitkovic/modalities/issues) if some
     - breathing techniques
     - sauna
 - sensory stimuation
+    - music
     - binaural beats
     - auditory entrainment, e.g. [Elemind](https://www.youtube.com/watch?v=zItt6lg2gUA&t=160s)
     - audiovisual entrainment, e.g. [Cognito](https://www.cell.com/neuron/fulltext/S0896-6273(19)30346-0) (currently in Breakthrough Designation Phase 3 for Alzheimer's)
