@@ -8,8 +8,8 @@ Please make an [issue](https://github.com/mwcvitkovic/modalities/issues) if some
   - [Peripheral](#peripheral) (entering the brain via nerves from outside the skull)
   - [Biologic](#biologic) (biological products or biosimilars)
   - [Chemical](#chemical) (small molecules)
-  - [Electromagnetic](#electromagnetic)
   - [Subatomic](#subatomic)
+  - [Electromagnetic](#electromagnetic)
   - [Mechanical](#mechanical)
   - [Combination](#combination)
 
@@ -132,6 +132,15 @@ This is definitely not a comprehensive list, just commonly used terminology.
     - alprazolam (xanax): anxiolytic; positive allosteric GABA-A receptor modulator
   - valproate: mood stabilizer, anticonvulsant; voltage-gated sodium channel blocker, histone deacetylase (HDAC) inhibitor (nice notes on HDAC inhibitors [here](https://www.reddit.com/r/Nootropics/comments/596gbi/i_wrote_an_article_on_hdac_inhibitors_geared/))
 
+## Subatomic
+- electronic
+  - electron beam therapy
+  - beta-decay radiotherapy
+- hadronic
+  - proton therapy
+  - fast neutron therapy
+  - heavy-ion radiotherapy
+
 ## Electromagnetic
 - electroconvulsive therapy (ECT) (undeserved bad reputation, safe and highly effective for [depression](https://pubmed.ncbi.nlm.nih.gov/20088620/) when done under general anesthesia)
 - microelectrode stimulation
@@ -156,15 +165,6 @@ This is definitely not a comprehensive list, just commonly used terminology.
   - x-ray
   - gamma knife
   - gamma-decay radiotherapy
-
-## Subatomic
-- electronic
-  - electron beam therapy
-  - beta-decay radiotherapy
-- hadronic
-  - proton therapy
-  - fast neutron therapy
-  - heavy-ion radiotherapy
 
 ## Mechanical
 - surgery (various -otomys)
