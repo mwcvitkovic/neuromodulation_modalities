@@ -28,7 +28,7 @@ Please make an [issue](https://github.com/mwcvitkovic/modalities/issues) if some
   - [Akili Interactive targeting ADHD](https://www.akiliinteractive.com/)
   - [action video games to reduce depression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5816361/)
   - disulfiram
-- philosophy, comedy, or ideas of any kind
+- philosophy, comedy, or articulable ideas of any kind
 
 ## Peripheral
 
