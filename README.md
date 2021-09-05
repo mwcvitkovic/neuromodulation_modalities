@@ -27,8 +27,8 @@ Please make an [issue](https://github.com/mwcvitkovic/modalities/issues) if some
 - brain training
   - [Akili Interactive targeting ADHD](https://www.akiliinteractive.com/)
   - [action video games to reduce depression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5816361/)
-  - conditioning
-    - disulfiram
+- conditioning
+  - disulfiram
 - philosophy, comedy, art, or any other media
 
 ## Peripheral
