@@ -51,6 +51,9 @@ Please make an [issue](https://github.com/mwcvitkovic/modalities/issues) if some
     - trigeminal nerve stimulation
     - auricular nerve stimulation
     - percutaneous nerve field stimulation
+    - cochlear implants
+    - retinal implants
+    - science.xyz
 
 ## Biologic
 
@@ -148,10 +151,8 @@ This is definitely not a comprehensive list, just commonly used terminology.
 - electroconvulsive therapy (ECT) (undeserved bad reputation, safe and highly effective for [depression](https://pubmed.ncbi.nlm.nih.gov/20088620/) when done under general anesthesia)
 - microelectrode stimulation
     - deep brain stimulation (DBS)
-    - interfaces (not typically thought of as "neuromodulatory", but doubtlessly can have some effect)
-        - cochlear implants
-        - retinal implants
-        - intracortical arrays (braingate, neuralink, etc.)
+    - cortical stimulation (RNS Therapy, Nia Therapeutics, etc.)
+    - intracortical arrays (braingate, paradromics, neuralink, etc.)
 - transcranial electrical stimulation (tES) (running currents through the brain)
     - transcranial direct current stimulation (tDCS) (less effective than popularly portrayed, but useful for specific indications)
     - transcranial random noise stimulation (tRNS)
