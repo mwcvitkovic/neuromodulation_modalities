@@ -1,7 +1,7 @@
 # Big List of Neuromodulation Modalities
 Every way to change your mind.
 
-Please make an [issue](https://github.com/mwcvitkovic/modalities/issues) if something's missing!
+Please make an [issue](https://github.com/mwcvitkovic/neuromodulation_modalities/issues) if something's missing!
 
 ### Table of Contents
   - [Cognitive](#cognitive) (requiring conscious engagement)
