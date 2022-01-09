@@ -153,6 +153,7 @@ This is definitely not a comprehensive list, just commonly used terminology.
     - deep brain stimulation (DBS)
     - cortical stimulation (RNS Therapy, Nia Therapeutics, etc.)
     - intracortical arrays (braingate, paradromics, neuralink, etc.)
+    - stent-mounted array ([stendrode](https://en.wikipedia.org/wiki/Stent-electrode_recording_array))
 - transcranial electrical stimulation (tES) (running currents through the brain)
     - transcranial direct current stimulation (tDCS) (less effective than popularly portrayed, but useful for specific indications)
     - transcranial random noise stimulation (tRNS)
@@ -171,11 +172,15 @@ This is definitely not a comprehensive list, just commonly used terminology.
   - gamma-decay radiotherapy
 
 ## Mechanical
-- surgery (various -otomys)
+- invasive surgery
+  - lobotomy
+  - corpus callosotomy
+  - invasive thalamotomy
+  - many other -tomys
 - ultrasound
   - high-intensity focused ultrasound (HIFU) (for ablation)
   - blood-brain barrier opening
-  - transcranial focused ultrasound stimulation (tFUS) (direct neural activity modulation by low-intensity ultrasound)
+  - transcranial focused ultrasound stimulation (TUS) (direct neural activity modulation by low-intensity ultrasound)
 
 ## Combination
 - environmental
