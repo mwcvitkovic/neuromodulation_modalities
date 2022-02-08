@@ -73,7 +73,7 @@ Please make an [issue](https://github.com/mwcvitkovic/neuromodulation_modalities
 ## Chemical
 There are too many chemicals to list, so instead here are the key mechanisms and effects by which we categorize chemicals, followed by some examples.
 #### Mechanisms of action of psychotropic substances
-This is believed to be a comprehensive list. Most chemicals act by multiple mechanisms.
+This is nearly a comprehensive list. Most chemicals act by multiple mechanisms.
   - receptor modulation
       - agonism (activates a receptor on a cell)
       - antagonism (binds to but doesn't activate a receptor, a "blocker")
