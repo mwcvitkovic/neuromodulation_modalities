@@ -58,7 +58,8 @@ Please make an [issue](https://github.com/mwcvitkovic/neuromodulation_modalities
 ## Biologic
 
 - monoclonal antibodies
-    - [CGRP antagonists for migraine](https://www.uspharmacist.com/article/an-overview-of-new-biologics-for-migraine-prophylaxis)
+    - not common because they don't cross the blood-brain barrier
+    - [CGRP antagonists for migraine](https://www.uspharmacist.com/article/an-overview-of-new-biologics-for-migraine-prophylaxis) exist but act on peripheral nerves
 - endogenous antibodies
     - anti-ganglioside antibodies
     - anti-glutamate receptor antibodies
