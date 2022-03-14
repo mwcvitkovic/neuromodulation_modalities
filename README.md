@@ -6,7 +6,7 @@ Please make an [issue](https://github.com/mwcvitkovic/neuromodulation_modalities
 ### Table of Contents
   - [Cognitive](#cognitive) (requiring conscious engagement)
   - [Peripheral](#peripheral) (entering the brain via nerves from outside the skull)
-  - [Biologic](#biologic) (biological products or biosimilars)
+  - [Biologic](#biologic)
   - [Chemical](#chemical) (small molecules)
   - [Subatomic](#subatomic)
   - [Electromagnetic](#electromagnetic)
@@ -56,20 +56,22 @@ Please make an [issue](https://github.com/mwcvitkovic/neuromodulation_modalities
     - science.xyz
 
 ## Biologic
-
-- monoclonal antibodies
-    - not common because they don't cross the blood-brain barrier
-    - [CGRP antagonists for migraine](https://www.uspharmacist.com/article/an-overview-of-new-biologics-for-migraine-prophylaxis) exist but act on peripheral nerves
-- endogenous antibodies
+These are currently uncommon due to the difficulty of getting biologics across the blood-brain barrier.
+- antibodies
+  - [CGRP antagonists for migraine](https://www.uspharmacist.com/article/an-overview-of-new-biologics-for-migraine-prophylaxis) exist but act on peripheral nerves
+  - endogenous antibodies
     - anti-ganglioside antibodies
     - anti-glutamate receptor antibodies
     - voltage-gated potassium channels antibodies
-- gene therapy
-    - [ex-vivo modified autologous fibroblasts to produce nerve growth factor](https://pubmed.ncbi.nlm.nih.gov/15852017/) (kindof a cell therapy as well)
+- proteins and peptides
+  - [Peptides for stroke](https://www.sciencedirect.com/science/article/abs/pii/S1474442212702259). Guess that's one way around the BBB...
+  - [Peptides for Alzheimer's](https://pubmed.ncbi.nlm.nih.gov/28951091/). Unknown how they cross the BBB.
+- nucleic acids
+  - gene therapy
     - [in-vivo AAV therapy to increase BDNF](https://ucsdnews.ucsd.edu/pressrelease/first-in-human-clinical-trial-to-assess-gene-therapy-for-alzheimers-disease)
-- RNAi? No known uses yet.
-- [interleukins](https://www.frontiersin.org/articles/10.3389/fnbeh.2017.00202/full) involved in memory in mice
-- cell therapy for [depression](https://pubmed.ncbi.nlm.nih.gov/30108315/) and potentially [other things](https://onlinelibrary.wiley.com/doi/full/10.1111/cns.13247)
+- live cells
+  - cell therapy for [depression](https://pubmed.ncbi.nlm.nih.gov/30108315/) and potentially [other things](https://onlinelibrary.wiley.com/doi/full/10.1111/cns.13247)
+  - [ex-vivo modified autologous fibroblasts to produce nerve growth factor](https://pubmed.ncbi.nlm.nih.gov/15852017/) (kindof a cell therapy as well)
 
 ## Chemical
 There are too many chemicals to list, so instead here are the key mechanisms and effects by which we categorize chemicals, followed by some examples.
