@@ -5,8 +5,7 @@ Please make an [issue](https://github.com/mwcvitkovic/neuromodulation_modalities
 
 ### Table of Contents
   - [Cognitive](#cognitive) (requiring conscious engagement)
-  - [Peripheral](#peripheral) (entering the brain via 
-  - nerves from outside the skull)
+  - [Peripheral](#peripheral) (entering the brain via nerves from outside the skull)
   - [Biologic](#biologic)
   - [Chemical](#chemical) (small molecules)
   - [Subatomic](#subatomic)
