@@ -5,7 +5,8 @@ Please make an [issue](https://github.com/mwcvitkovic/neuromodulation_modalities
 
 ### Table of Contents
   - [Cognitive](#cognitive) (requiring conscious engagement)
-  - [Peripheral](#peripheral) (entering the brain via nerves from outside the skull)
+  - [Peripheral](#peripheral) (entering the brain via 
+  - nerves from outside the skull)
   - [Biologic](#biologic)
   - [Chemical](#chemical) (small molecules)
   - [Subatomic](#subatomic)
@@ -67,18 +68,18 @@ These are currently uncommon due to the difficulty of getting biologics across t
   - [Peptides for stroke](https://www.sciencedirect.com/science/article/abs/pii/S1474442212702259). Guess that's one way around the BBB...
   - [Peptides for Alzheimer's](https://pubmed.ncbi.nlm.nih.gov/28951091/). Unknown how they cross the BBB.
 - nucleic acids
-  - gene therapy
-    - [in-vivo AAV therapy to increase BDNF](https://ucsdnews.ucsd.edu/pressrelease/first-in-human-clinical-trial-to-assess-gene-therapy-for-alzheimers-disease)
+  - [in-vivo AAV gene therapy to increase BDNF](https://ucsdnews.ucsd.edu/pressrelease/first-in-human-clinical-trial-to-assess-gene-therapy-for-alzheimers-disease)
 - live cells
   - cell therapy for [depression](https://pubmed.ncbi.nlm.nih.gov/30108315/) and potentially [other things](https://onlinelibrary.wiley.com/doi/full/10.1111/cns.13247)
   - [ex-vivo modified autologous fibroblasts to produce nerve growth factor](https://pubmed.ncbi.nlm.nih.gov/15852017/) (kindof a cell therapy as well)
 
 ## Chemical
 There are too many chemicals to list, so instead here are the key mechanisms and effects by which we categorize chemicals, followed by some examples.
-#### Mechanisms of action of psychotropic substances
-This is nearly a comprehensive list. Most chemicals act by multiple mechanisms.
+#### Mechanisms of action of psychoactive substances
+This is a mostly comprehensive list. Most chemicals act by multiple mechanisms.
   - receptor modulation
       - agonism (activates a receptor on a cell)
+        - It's actually more complicated due to [biased agonism](https://en.wikipedia.org/wiki/Functional_selectivity)
       - antagonism (binds to but doesn't activate a receptor, a "blocker")
       - inverse agonism (binds a receptor but produces an opposite effect)
       - allosteric modulation (binds somewhere other than the active site and increases/decreases activity)
@@ -94,7 +95,7 @@ This is nearly a comprehensive list. Most chemicals act by multiple mechanisms.
       - reuptake enhancement
       - reuptake inhibition
 
-#### Neurological and psychological effects of psychotropic substances
+#### Neurological and psychological effects of psychoactive substances
 This is definitely not a comprehensive list, just commonly used terminology.
   - depressants
       - anxiolytics/sedatives (reduce anxiety)
@@ -111,12 +112,10 @@ This is definitely not a comprehensive list, just commonly used terminology.
   - antipsychotics
 
 #### Examples
+  - caffeine: stimulant; adenosine receptor antagonist (among other things)
   - fluoxetine (prozac): antidepressant; selective serotonin reuptake inhibitor (SSRI)
   - haloperidol: antipsychotic; dopamine receptor antagonist
   - clozapine: antipsychotic; 5-HT2A antagonist
-  - methylxanthines
-    - caffeine: stimulant; adenosine receptor antagonist (among other things)
-    - paraxanthine: stimulant; adenosine receptor antagonist (among other things)
   - cocaine: stimulant; serotonin, norepinephrine, and dopamine reuptake inhibitor 
   - nicotine: stimulant and anxiolytic; nicotinic acetylcholine receptor agonist/antagonist
   - phenethylamines
