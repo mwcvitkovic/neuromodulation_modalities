@@ -149,7 +149,7 @@ This is definitely not a comprehensive list, just commonly used terminology.
   - heavy-ion radiotherapy
 
 ## Electromagnetic
-- electroconvulsive therapy (ECT) (undeserved bad reputation, safe and highly effective for [depression](https://pubmed.ncbi.nlm.nih.gov/20088620/) when done under general anesthesia)
+- electroconvulsive therapy (ECT) (undeserved bad reputation, safe and often effective for [depression](https://pubmed.ncbi.nlm.nih.gov/20088620/) when done under general anesthesia)
 - microelectrode stimulation
     - deep brain stimulation (DBS)
     - cortical stimulation (RNS Therapy, Nia Therapeutics, etc.)
