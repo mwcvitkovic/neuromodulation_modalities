@@ -191,6 +191,7 @@ This is definitely not a comprehensive list, just commonly used terminology.
   - prenatal environment
   - gut-brain axis/microbiome
 - optogenetics
+  - and [optogenetic cell therapy](https://www.biorxiv.org/content/10.1101/333526v1.full)
 - chemogenetics
 - sonogenetics
 - sonothermogenetics
