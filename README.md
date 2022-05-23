@@ -70,7 +70,7 @@ These are currently uncommon due to the difficulty of getting biologics across t
   - [in-vivo AAV gene therapy to increase BDNF](https://ucsdnews.ucsd.edu/pressrelease/first-in-human-clinical-trial-to-assess-gene-therapy-for-alzheimers-disease)
 - live cells
   - cell therapy for [depression](https://pubmed.ncbi.nlm.nih.gov/30108315/) and potentially [other things](https://onlinelibrary.wiley.com/doi/full/10.1111/cns.13247)
-  - [ex-vivo modified autologous fibroblasts to produce nerve growth factor](https://pubmed.ncbi.nlm.nih.gov/15852017/) (kindof a cell therapy as well)
+  - [ex-vivo modified autologous fibroblasts to produce nerve growth factor](https://pubmed.ncbi.nlm.nih.gov/15852017/)
 
 ## Chemical
 There are too many chemicals to list, so instead here are the key mechanisms and effects by which we categorize chemicals, followed by some examples.
