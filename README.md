@@ -67,6 +67,7 @@ These are currently uncommon due to the difficulty of getting biologics across t
   - [Peptides for Alzheimer's](https://pubmed.ncbi.nlm.nih.gov/28951091/). Unknown how they cross the BBB.
 - nucleic acids
   - [in-vivo AAV gene therapy to increase BDNF](https://ucsdnews.ucsd.edu/pressrelease/first-in-human-clinical-trial-to-assess-gene-therapy-for-alzheimers-disease)
+  - [antisense oligonucleotides](https://en.wikipedia.org/wiki/Nusinersen)
 - live cells
   - cell therapy for [depression](https://pubmed.ncbi.nlm.nih.gov/30108315/) and potentially [other things](https://onlinelibrary.wiley.com/doi/full/10.1111/cns.13247)
   - [ex-vivo modified autologous fibroblasts to produce nerve growth factor](https://pubmed.ncbi.nlm.nih.gov/15852017/)
