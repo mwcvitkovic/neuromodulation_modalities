@@ -51,6 +51,7 @@ Please make an [issue](https://github.com/mwcvitkovic/neuromodulation_modalities
     - auricular nerve stimulation
     - percutaneous nerve field stimulation
     - cochlear implants
+    - auditory brainstem implant (technically not peripheral, but right on the border)
     - retinal implants
     - science.xyz
 
