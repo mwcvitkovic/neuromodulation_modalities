@@ -29,7 +29,7 @@ Please make an [issue](https://github.com/mwcvitkovic/neuromodulation_modalities
   - [action video games to reduce depression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5816361/)
 - conditioning
   - disulfiram
-- Social engagement
+- social engagement
   - friendships
   - romance
   - group activities (games, sports, dance)
