@@ -61,7 +61,9 @@ Please make an [issue](https://github.com/mwcvitkovic/neuromodulation_modalities
     - science.xyz
 
 ## Biologic
-These are currently uncommon due to the difficulty of getting biologics across the blood-brain barrier.
+These are currently uncommon due to the difficulty of getting biologics across the blood-brain barrier, but there are many in the pipeline.
+Interesting targets include [FAAH-OUT and rs324420](https://pmc.ncbi.nlm.nih.gov/articles/PMC6676009/) for potential pain insensitivity and [short-sleeper genes](https://en.wikipedia.org/wiki/Familial_natural_short_sleep).
+
 - antibodies
   - [CGRP antagonists for migraine](https://www.uspharmacist.com/article/an-overview-of-new-biologics-for-migraine-prophylaxis) exist but act on peripheral nerves
   - endogenous antibodies
@@ -77,6 +79,8 @@ These are currently uncommon due to the difficulty of getting biologics across t
 - live cells
   - cell therapy for [depression](https://pubmed.ncbi.nlm.nih.gov/30108315/) and potentially [other things](https://onlinelibrary.wiley.com/doi/full/10.1111/cns.13247)
   - [ex-vivo modified autologous fibroblasts to produce nerve growth factor](https://pubmed.ncbi.nlm.nih.gov/15852017/)
+
+
 
 ## Chemical
 There are too many chemicals to list, so instead here are the key mechanisms and effects by which we categorize chemicals, followed by some examples.
