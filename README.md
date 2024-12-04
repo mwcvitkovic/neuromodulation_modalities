@@ -24,6 +24,7 @@ Please make an [issue](https://github.com/mwcvitkovic/neuromodulation_modalities
   - cognitive behavioral therapy
 - neurofeedback
 - hypnosis
+- breathwork
 - brain training
   - [Akili Interactive targeting ADHD](https://www.akiliinteractive.com/)
   - [action video games to reduce depression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5816361/)
@@ -43,6 +44,7 @@ Please make an [issue](https://github.com/mwcvitkovic/neuromodulation_modalities
     - eating
     - breathing techniques
     - sauna
+    - cold plunge
 - sensory stimuation
     - music
     - binaural beats
